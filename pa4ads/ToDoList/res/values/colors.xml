@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notepad_paper">#EEF8E0A0</color>
+    <color name="notepad_lines">#FF0000FF</color>
+    <color name="notepad_margin">#90FF0000</color>
+    <color name="notepad_text">#AA0000FF</color>
+    <color name="notepad_date">#AA0F0000</color>
+    
+    <color name="compass_bg">#0F050505</color>
+    <color name="compass_marker">#FF00FF00</color>
+    <color name="compass_text">#FF0000FF</color>
+    
+    <color name="compass_shadow_color">#7AAA</color>
+    
+    <color name="compass_outer_border">#FF444444</color>
+
+    <color name="compass_inner_border_one">#FF323232</color>
+    <color name="compass_inner_border_two">#FF414141</color>
+    <color name="compass_inner_border">#FFFFFFFF</color>
+    
+    <color name="compass_horizon_sky_from">#FFA52A2A</color>
+
+    <color name="compass_horizon_sky_to">#FFFFC125</color>
+    
+    <color name="compass_horizon_ground_from">#FF5F9EA0</color>
+    <color name="compass_horizon_ground_to">#FF00008B</color>
+    
+</resources>

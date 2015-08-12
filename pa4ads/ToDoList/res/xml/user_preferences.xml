@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    >
+    
+    <PreferenceCategory
+        android:title="Test Preference - I'm PreferenceCategory"
+        >
+        
+        <ListPreference 
+            android:key="TEST_SPINNER"
+            android:title="I will decide spinner selected which value"
+            android:summary="Which chosen here, which chosen there!"
+            android:entries="@array/test_spinner_array_title"
+            android:entryValues="@array/test_spinner_array_value"
+            android:dialogTitle="Which will you choose?"
+            android:defaultValue="2"
+            />
+                
+    </PreferenceCategory>
+    
+
+</PreferenceScreen>
